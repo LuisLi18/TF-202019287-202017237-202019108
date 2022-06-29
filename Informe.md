@@ -2,9 +2,9 @@
 WV71 - TRABAJO FINAL DE COMPLEJIDAD ALGORÍTMICA 2022
 
 #### Integrantes
-Diego Alexander Porta Ñaña
-Diego Alonso de la Flor Armas
-Luis Ramón Li Tang
+ - Diego Alexander Porta Ñaña
+ - Diego Alonso de la Flor Armas
+ - Luis Ramón Li Tang
 
 ## Introducción
 El problema del “Waze” plantea la siguiente interrogante: dada un mapa de la ciudad de Lima, 
